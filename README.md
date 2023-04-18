@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gilar Sumilar</h1>
-<h3 align="center">I am from Indonesia, and I'm in college</h3>
+<h3 align="center">and I am a student, That's it</h3>
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
 
 - 🌱 I’m currently learning **PHP, C++, MySQL**
 
 - 📫 How to reach me **gilarz2100@gmail.com**
 
-- ⚡ Fun fact **I think am funny 🙊**
+- ✌️ **If you have stopped by, don't forget to pay the parking fee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
