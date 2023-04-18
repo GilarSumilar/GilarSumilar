@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gilar Sumilar</h1>
 <h3 align="center">and I am a student, That's it</h3>
-<img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
+<img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif">
 
 - 🌱 I’m currently learning **PHP, C++, MySQL**
 
