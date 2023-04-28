@@ -2,7 +2,7 @@
 <h3 align="left">and I am a student, That's it</h3>
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif">
 
-- 🌱 I’m currently learning **PHP, C++, MySQL**
+- 🌱 I’m currently learning **Python, C++, MySQL**
 
 - 📫 How to reach me **gilarz2100@gmail.com**
 
