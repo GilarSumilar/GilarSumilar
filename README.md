@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Gilar</h1>
-<h3 align="left">and I am a student, That's it</h3>
+<h1 align="left">Yo 👋</h1>
+<h3 align="left">I am a student</h3>
 <img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif">
 
 - 🌱 I’m currently learning **Python, C++, MySQL**
