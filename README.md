@@ -1,6 +1,6 @@
 <h1 align="left">Yo 👋</h1>
 <h3 align="left">I am a student</h3>
-<img align="right" alt="Coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkY2QxNmQyOWZiZWY2ZjU2ZmI5YzEwYjMzMWMxNjEwOTI5NTcxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xoi6nNqJQJ95Qc/giphy.gif">
 
 - 🌱 I’m currently learning **Python, C++, MySQL**
 
