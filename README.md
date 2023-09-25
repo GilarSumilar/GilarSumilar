@@ -4,10 +4,6 @@
 
 - 🌱 I’m currently learning **Python, C++, MySQL**
 
-- 📫 How to reach me **gilarz2100@gmail.com**
-
-- ✌️ **If you have stopped by, don't forget to pay the parking fee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/massa_gakenal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@massa_gakenal" height="30" width="40" /></a>
