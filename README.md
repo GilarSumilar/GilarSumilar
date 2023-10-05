@@ -2,9 +2,8 @@
 <h3 align="left">Iam a Student</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkY2QxNmQyOWZiZWY2ZjU2ZmI5YzEwYjMzMWMxNjEwOTI5NTcxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xoi6nNqJQJ95Qc/giphy.gif">
 
-- 🌱 I’m currently learning **Python, C++, MySQL**
+- 🌱 learning **Python, C++, MySQL**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/massa_gakenal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@massa_gakenal" height="30" width="40" /></a>
 <a href="https://discord.gg/Timeyy#4702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Timeyy#4702" height="30" width="40" /></a>
