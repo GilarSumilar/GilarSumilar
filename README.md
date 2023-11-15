@@ -5,8 +5,8 @@
 - 🌱 learning **HTML, CSS, Python, MySQL, PHP**
 
 <p align="left">
-<a href="https://www.instagram.com/massa_gakenal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@massa_gakenal" height="30" width="40" /></a>
-<a href="https://discord.gg/Timeyy#4702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Timeyy#4702" height="30" width="40" /></a>
+<a href="https://www.instagram.com/massa_gakenal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="@massa_gakenal" height="30" width="40" /></a>
+<a href="https://discord.gg/Timeyy#4702" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" alt="Timeyy#4702" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +25,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GilarSumilar/GilarSumilar/output/snake.svg" alt="Snake animation" />
+
+###
 
 
