@@ -26,10 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/GilarSumilar/GilarSumilar/output/snake.svg" alt="Snake animation" />
-
-###
 
 
