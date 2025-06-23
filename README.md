@@ -2,7 +2,7 @@
 <h3 align="left">Iam a Student</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkY2QxNmQyOWZiZWY2ZjU2ZmI5YzEwYjMzMWMxNjEwOTI5NTcxNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o85xoi6nNqJQJ95Qc/giphy.gif">
 
-- 🌱 learning **HTML, CSS, Python, MySQL, PHP**
+- 🌱 **learning....**
 
 <p align="left">
 <a href="https://www.instagram.com/massa_gakenal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="@massa_gakenal" height="30" width="40" /></a>
@@ -24,6 +24,13 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 
